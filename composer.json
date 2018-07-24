@@ -1,0 +1,12 @@
+{
+	"name": "unyson/unyson",
+	"description": "",
+	"keywords": [],
+	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "~1.0"
+	},
+	"require-dev": {
+		"composer/composer": "^1.0"
+	}
+}
